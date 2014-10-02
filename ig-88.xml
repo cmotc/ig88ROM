@@ -18,5 +18,5 @@
       <project name="eolwral/OSMonitor" path="packages/apps/eolwral/OSMonitor" remote="github" revision="master" />
       <project name="ligi/SatoshiProof" path="packages/apps/ligi/SatoshiProof" remote="github" revision="master" />
       <project name="sarfraznawaz2005/android-app-callerdetails/" path="packages/apps/sarfraznawaz2005/android-app-callerdetails/src" remote="bitbucket" revision="master" />
-      <project name="" path="packages/apps/" remote="github" revision="master" />
+      <project name="thialfihar/apg" path="packages/apps/thialfihar/apg" remote="github" revision="master" />
     </manifest>
