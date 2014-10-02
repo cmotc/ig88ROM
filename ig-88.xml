@@ -25,11 +25,11 @@
       <project name="fdroid/fdroidclient.git" path="packages/apps/fdroid/fdroidclient" remote="gitlab" revision="master" />
       <project name="evilsocket/dsploit" path="packages/apps/evilsocket/dsploit" remote="github" revision="master" />
       <project name="offensive-security/kali-nethunter" path="packages/apps/offensive-security/kali-nethunter" remote="github" revision="master" />
-<!--      <project name="crazyricky/SSLStrip-for-Android" path="packages/apps/crazyricky/SSLStrip-for-Android" remote="github" revision="master" />-->
+      <project name="crazyricky/SSLStrip-for-Android" path="packages/apps/crazyricky/SSLStrip-for-Android" remote="github" revision="master" />
       <project name="rorist/android-network-discovery" path="packages/apps/rorist/android-network-discovery" remote="github" revision="master" />
       <project name="mvglasow/satstat" path="packages/apps/mvglasow/satstat" remote="github" revision="master" />
       <project name="wiglenet/wigle-wifi-wardriving" path="packages/apps/wiglenet/wigle-wifi-wardriving" remote="github" revision="master" />
-<!--      <project name="Zbob750/DroidSteal" path="packages/apps/Zbob750/DroidSteal" remote="github" revision="master" />-->
+      <project name="Zbob750/DroidSteal" path="packages/apps/Zbob750/DroidSteal" remote="github" revision="master" />
       <project name="JanHelbling/mitm-protector" path="packages/apps/JanHelbling/mitm-protector" remote="github" revision="master" />
       <project name="keesj/librtlsdr-android" path="packages/apps/keesj/librtlsdr-android" remote="github" revision="master" />
       <project name="kconger/org.thecongers.sdrweather" path="packages/apps/kconger/org.thecongers.sdrweather" remote="github" revision="master" />
