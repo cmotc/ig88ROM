@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <manifest>
         <remote name="torproject"
-                fetch="https://gitweb.torproject.org/" />
+                fetch="https://git.torproject.org/" />
         <remote name="bitbucket"
                 fetch="https://bitbucket.org/" />
       <project name="ukanth/afwall" path="packages/apps/ukanth/afwall" remote="github" revision="master" />
