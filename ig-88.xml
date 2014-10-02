@@ -33,7 +33,7 @@
       <project name="keesj/librtlsdr-android" path="packages/apps/keesj/librtlsdr-android" remote="github" revision="master" />
       <project name="kconger/org.thecongers.sdrweather" path="packages/apps/kconger/org.thecongers.sdrweather" remote="github" revision="master" />
       <project name="Irdroid/Irdroid" path="packages/apps/Irdroid/Irdroid" remote="github" revision="master" />
-      <!--<project name="" path="packages/apps/" remote="github" revision="master" />-->
+      <project name="grugq/darkmatter" path="packages/apps/grugq/darkmatter" remote="github" revision="master" />
       <!--<project name="" path="packages/apps/" remote="github" revision="master" />-->
       <!--<project name="" path="packages/apps/" remote="github" revision="master" />-->
       <!--<project name="" path="packages/apps/" remote="github" revision="master" />-->
