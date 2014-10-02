@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <manifest>
+        <remote name="torproject"
+                fetch="https://gitweb.torproject.org/" />
+
       <project name="ukanth/afwall" path="packages/apps/ukanth/afwall" remote="github" revision="master" />
       <project name="x942/secdroid" path="packages/apps/x942/secdroid" remote="github" revision="master" />
       <project name="dschuermann/ad-away" path="packages/apps/dschuermann/ad-away" remote="github" revision="master" />
-      <project name="orbot.git" path="packages/apps/torproject/orbot" remote="https://gitweb.torproject.org/" revision="master" />
+      <project name="orbot.git" path="packages/apps/torproject/orbot" remote="torproject" revision="master" />
       <project name="Astonex/Antox" path="packages/apps/Astonex/Antox" remote="github" revision="master" />
-
     </manifest>
