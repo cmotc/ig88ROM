@@ -4,6 +4,8 @@
                 fetch="https://git.torproject.org/" />
         <remote name="bitbucket"
                 fetch="https://bitbucket.org/" />
+        <remote name="gitlab"
+                fetch="https://gitlab.com/" />
       <project name="ukanth/afwall" path="packages/apps/ukanth/afwall" remote="github" revision="master" />
       <project name="x942/secdroid" path="packages/apps/x942/secdroid" remote="github" revision="master" />
       <project name="dschuermann/ad-away" path="packages/apps/dschuermann/ad-away" remote="github" revision="master" />
@@ -19,4 +21,5 @@
       <project name="ligi/SatoshiProof" path="packages/apps/ligi/SatoshiProof" remote="github" revision="master" />
       <project name="sarfraznawaz2005/android-app-callerdetails/" path="packages/apps/sarfraznawaz2005/android-app-callerdetails/src" remote="bitbucket" revision="master" />
       <project name="thialfihar/apg" path="packages/apps/thialfihar/apg" remote="github" revision="master" />
+      <project name="fdroid/fdroidclient" path="packages/apps/fdroid/fdroidclient" remote="gitlab" revision="master" />
     </manifest>
