@@ -6,6 +6,7 @@
                 fetch="https://bitbucket.org/" />
         <remote name="gitlab"
                 fetch="https://gitlab.com/" />
+      <remove-project name="CyanogenMod/libpcap" />
       <project name="ukanth/afwall" path="packages/apps/ukanth/afwall" remote="github" revision="master" />
       <project name="x942/secdroid" path="packages/apps/x942/secdroid" remote="github" revision="master" />
       <project name="dschuermann/ad-away" path="packages/apps/dschuermann/ad-away" remote="github" revision="master" />
