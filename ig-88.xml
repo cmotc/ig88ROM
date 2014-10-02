@@ -2,11 +2,21 @@
     <manifest>
         <remote name="torproject"
                 fetch="https://gitweb.torproject.org/" />
-
+        <remote name="bitbucket"
+                fetch="https://bitbucket.org/" />
       <project name="ukanth/afwall" path="packages/apps/ukanth/afwall" remote="github" revision="master" />
       <project name="x942/secdroid" path="packages/apps/x942/secdroid" remote="github" revision="master" />
       <project name="dschuermann/ad-away" path="packages/apps/dschuermann/ad-away" remote="github" revision="master" />
       <project name="orbot.git" path="packages/apps/torproject/orbot" remote="torproject" revision="master" />
       <project name="Astonex/Antox" path="packages/apps/Astonex/Antox" remote="github" revision="master" />
       <project name="EthACKdotOrg/orWall" path="packages/apps/EthACKdotOrg/orWall" remote="github" revision="master" />
+      <project name="SaferMobile/intheclear" path="packages/apps/SaferMobile/intheclear" remote="github" revision="master" />
+      <project name="connectbot/connectbot" path="packages/apps/connectbot/connectbot" remote="github" revision="master" />
+      <project name="g2l-gesture-launcher/g2l-gesture-launcher" path="packages/apps/g2l-gesture-launcher/g2l-gesture-launcher" remote="gitorious" revision="master" />
+      <project name="guardianproject/notecipher" path="packages/apps/guardianproject/notecipher" remote="github" revision="master" />
+      <project name="pedja1/aLogcatRoot" path="packages/apps/pedja1/aLogcatRoot" remote="github" revision="master" />
+      <project name="eolwral/OSMonitor" path="packages/apps/eolwral/OSMonitor" remote="github" revision="master" />
+      <project name="ligi/SatoshiProof" path="packages/apps/ligi/SatoshiProof" remote="github" revision="master" />
+      <project name="sarfraznawaz2005/android-app-callerdetails/" path="packages/apps/sarfraznawaz2005/android-app-callerdetails/src" remote="bitbucket" revision="master" />
+      <project name="" path="packages/apps/" remote="github" revision="master" />
     </manifest>
