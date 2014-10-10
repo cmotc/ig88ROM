@@ -15,6 +15,7 @@
       <project name="EthACKdotOrg/orWall" path="packages/apps/EthACKdotOrg/orWall" remote="github" revision="master" />
       <project name="SaferMobile/intheclear" path="packages/apps/SaferMobile/intheclear" remote="github" revision="master" />
       <project name="connectbot/connectbot" path="packages/apps/connectbot/connectbot" remote="github" revision="master" />
+      <project name="jackgu1988/MacSpoofer" path="packages/apps/jackgu1988/MacSpoofer" remote="github" revision="master"/>
       <project name="g2l-gesture-launcher/g2l-gesture-launcher" path="packages/apps/g2l-gesture-launcher/g2l-gesture-launcher" remote="gitorious" revision="master" />
       <project name="guardianproject/notecipher" path="packages/apps/guardianproject/notecipher" remote="github" revision="master" />
       <project name="pedja1/aLogcatRoot" path="packages/apps/pedja1/aLogcatRoot" remote="github" revision="master" />
