@@ -7,6 +7,7 @@
         <remote name="gitlab"
                 fetch="https://gitlab.com/" />
       <!--<remove-project name="external/libpcap" />-->
+      <project name="cmotc/cjdns_apk_for_root" path="packages/apps/cmotc/cjdns_apk_for_root" remote="github" revision="master" />
       <project name="ukanth/afwall" path="packages/apps/ukanth/afwall" remote="github" revision="master" />
       <project name="x942/secdroid" path="packages/apps/x942/secdroid" remote="github" revision="master" />
       <project name="dschuermann/ad-away" path="packages/apps/dschuermann/ad-away" remote="github" revision="master" />
