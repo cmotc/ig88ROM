@@ -40,6 +40,7 @@
       <project name="Irdroid/Irdroid" path="packages/apps/Irdroid/Irdroid" remote="github" revision="master" />
       <project name="grugq/darkmatter" path="packages/apps/grugq/darkmatter" remote="github" revision="master" />
       <remove-project name="replicant/packages_apps_browser" />
+      <remove-project name="external/libpcap" />
       <remove-project name="CyanogenMod/android_packages_apps_BasicSmsReceiver" />
       <remove-project name="CyanogenMod/android_packages_apps_Email" />
       <remove-project path="packages/apps/Launcher2" name="CyanogenMod/android_packages_apps_Launcher2" />

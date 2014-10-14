@@ -14,6 +14,9 @@ This manifest draws from these additional remote repositories.
 Apps
 ----
 The ROM intended to be built from this manifest includes these packages.
+   * Tint Browser name="Anasthase/TintBrowser" remote="github"  
+   * Tint Browser Adblock Plugin name="Anasthase/TintBrowserAdblockAddon" remote="github"  
+   * CJDNS Mesh name="cmotc/cjdns_apk_for_root" remote="github"  
    * AFWall name="ukanth/afwall" remote="github"  
    * SecDroid name="x942/secdroid" remote="github"  
    * Ad-Away name="dschuermann/ad-away" remote="github"  
