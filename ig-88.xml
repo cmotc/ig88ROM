@@ -26,7 +26,7 @@
       <project name="ligi/SatoshiProof" path="packages/apps/ligi/SatoshiProof" remote="github" revision="master" />
       <project name="sarfraznawaz2005/android-app-callerdetails/" path="packages/apps/sarfraznawaz2005/android-app-callerdetails/src" remote="bitbucket" revision="master" />
       <project name="thialfihar/apg" path="packages/apps/thialfihar/apg" remote="github" revision="master" />
-      <!--<project name="fdroid/fdroidclient.git" path="packages/apps/fdroid/fdroidclient" remote="gitlab" revision="master" />-->
+      <project name="fdroid/fdroidclient.git" path="packages/apps/fdroid/fdroidclient" remote="gitlab" revision="master" />
       <project name="evilsocket/dsploit" path="packages/apps/evilsocket/dsploit" remote="github" revision="master" />
       <project name="offensive-security/kali-nethunter" path="packages/apps/offensive-security/kali-nethunter" remote="github" revision="master" />
       <project name="crazyricky/SSLStrip-for-Android" path="packages/apps/crazyricky/SSLStrip-for-Android" remote="github" revision="master" />
