@@ -40,7 +40,7 @@ The ROM intended to be built from this manifest includes these packages.
    * SatStat name="mvglasow/satstat" remote="github"  
    * Wigle Wardriving name="wiglenet/wigle-wifi-wardriving" remote="github"  
    * DroidSteal Session Hijacking name="Zbob750/DroidSteal" remote="github"  
-   * Man-In-The-Middle protector for attacks similar to DroidSteal name="JanHelbling/mitm-protector" remote="github"  
+   * Man-In-The-Middle protector for attacks similar to DroidSteal name="JanHelbling/mitmprotector" remote="github"  
    * Software Defined Radio Library rtl-SDR name="keesj/librtlsdr-android" remote="github"(Requires On-The-Go cable and DVB-T Antenna)  
    * SDR Weather Radio name="kconger/org.thecongers.sdrweather" remote="github"  
    * Infrared Universal Remote Control name="Irdroid/Irdroid" remote="github"(Requires infrared peripheral, these can easily be built or purchased)(instructions for building IR lead (here)[http://www.instructables.com/id/DIY-Infrared-transmitter-for-iPhone-iPod/])  
