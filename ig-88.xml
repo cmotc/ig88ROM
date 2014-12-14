@@ -36,7 +36,7 @@
       <project name="mvglasow/satstat" path="packages/apps/mvglasow/satstat" remote="github" revision="master" />
       <project name="wiglenet/wigle-wifi-wardriving" path="packages/apps/wiglenet/wigle-wifi-wardriving" remote="github" revision="master" />
       <project name="Zbob750/DroidSteal" path="packages/apps/Zbob750/DroidSteal" remote="github" revision="master" />
-      <project name="JanHelbling/mitm-protector" path="packages/apps/JanHelbling/mitm-protector" remote="github" revision="master" />
+      <project name="JanHelbling/mitmprotector" path="packages/apps/JanHelbling/mitmprotector" remote="github" revision="master" />
       <project name="keesj/librtlsdr-android" path="packages/apps/keesj/librtlsdr-android" remote="github" revision="master" />
       <project name="kconger/org.thecongers.sdrweather" path="packages/apps/kconger/org.thecongers.sdrweather" remote="github" revision="master" />
       <project name="Irdroid/Irdroid" path="packages/apps/Irdroid/Irdroid" remote="github" revision="master" />
